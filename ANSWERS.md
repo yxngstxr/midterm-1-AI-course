@@ -60,7 +60,7 @@ Add about 60 more Kazakh and Russian test questions from real traffic and measur
 
 | pipeline | overall accuracy | weakest cell (language, condition) | accuracy there | lower | upper | annual cost |
 |---|---|---|---|---|---|---|
-| H | | | | | | |
+| H |0.867 | | | | | |
 | L | | | | | | |
 
 Personal-data pages per year sent abroad under H:
