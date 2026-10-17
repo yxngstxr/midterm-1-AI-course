@@ -52,6 +52,8 @@ Annual cost is $16,710, within the $25,100 budget; (A,5) costs $28,338 and is ex
 
 ### 1e. Next measurement (at most 60 words)
 
+Add about 60 more Kazakh and Russian test questions from real traffic and measure (B,5) recall@5 on them. If the Kazakh lower bound stays below 0.70, I would test a different chunk size or embedding model for Kazakh before launch.
+
 ## Part 2: A document pipeline you can defend
 
 ### 2a. Numbers
