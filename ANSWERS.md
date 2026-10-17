@@ -42,7 +42,7 @@ What I used them for:
 | A, k=3 | 21827|
 | A, k=5 |28338 |
 | B, k=3 |14850 |
-| B, k=5 | |
+| B, k=5 | 16710|
 
 ### 1d. Decision (at most 150 words)
 
