@@ -83,8 +83,8 @@ Number 533
 Why (at most 40 words): ноу the sentences tarts at about e5 token 533, beyond the 512 limit, so it is truncated and never embedded. The chunk cannot match it, and no error is raised: the failure is silent.
 ### Q3
 
-Number:
-Why (at most 40 words):
+Number:90.8
+Why (at most 40 words): The ranking did not change softmax is monotonic Lower T sharpens probabilities, so Monday gets 90.8 %. Every token still has non-zero probability, so the sampleable set stays the same unless top-k or top-p cuts it.
 
 ### Q4
 
