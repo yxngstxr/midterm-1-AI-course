@@ -93,5 +93,5 @@ Why (at most 40 words): The public leaderboard prefers X , because I don’t kno
 
 ### Q5
 
-Number:
-Why (at most 40 words):
+Number:5 55
+Why (at most 40 words): Over-trained relative to Chinchilla: 111 tokens per parameter versus 20. Chinchilla argued that models like GPT-3 were too large for their data undertrained, and that parameters and tokens should scale equally
