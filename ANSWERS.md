@@ -39,7 +39,7 @@ What I used them for:
 
 | candidate | annual cost |
 |---|---|
-| A, k=3 | |
+| A, k=3 | 21827|
 | A, k=5 | |
 | B, k=3 | |
 | B, k=5 | |
