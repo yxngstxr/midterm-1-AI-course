@@ -88,8 +88,8 @@ Why (at most 40 words): The ranking did not change softmax is monotonic Lower T 
 
 ### Q4
 
-Number:
-Why (at most 40 words):
+Number:34
+Why (at most 40 words): The public leaderboard prefers X , because I don’t know scores zero, like a wrong answer. This teaches models to guess rather than abstain, which encourages confident hallucinations.
 
 ### Q5
 
