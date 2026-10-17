@@ -24,7 +24,7 @@ Fingerprint:
 
 | candidate | recall@k | lower | upper |
 |---|---|---|---|
-| A, k=3 | | | |
+| A, k=3 |0.533 | 0.409 | 0.654 |
 | A, k=5 | | | |
 | B, k=3 | | | |
 | B, k=5 | | | |
