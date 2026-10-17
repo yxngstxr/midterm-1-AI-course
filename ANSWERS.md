@@ -74,8 +74,8 @@ Choice L costs 18000 dollars a year against 21418 dollars for H keeps all person
 
 ### Q1
 
-Number:
-Why (at most 40 words):
+Number:2ю08
+Why (at most 40 words): Щutput tokens cost 5x input tokens, and the mix differs: KK needs 2.44x the input but only 1.50x the output, so the cost-weighted ratio (2.08) is below the token ratio (2.34).
 
 ### Q2
 
