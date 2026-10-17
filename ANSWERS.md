@@ -66,7 +66,10 @@ Add about 60 more Kazakh and Russian test questions from real traffic and measur
 Personal-data pages per year sent abroad under H:
 
 ### 2b. Memo (at most 300 words)
-
+Who is served worst Overall accuracy H 0 867 156 out of 180 L 0 828 149 out of 180 The overall figure hide Kazakh Under L Kazakh score 0 733 in both conditions 22 out of 30 each 95 percent CI 0 556 to 0 858 Under H the weakest cell is Kazakh degraded 0 767 0 591 to 0 882 With 30 invoices per cell all intervals overlap so I cannot claim H is really more accurate Kazakh is lowest under both pipelines and L is lower there but this is a signal not a proof
+Personal data three questions of Lecture 5 1 24 percent of pages carry a name and ИИН 788400 pages a year H the scan goes to a data centre abroad known Who stores it and for how long is unknown A vendors statement is not a compliance review so I would need to see the contract and get a legal check under law No 94 V L the scan stays on our server in Kazakhstan known We store it so we set retention but the period and access rules are not defined yet
+Safeguards 1 No H use before contract and legal review 2 Under L delete scans after a fixed number of days verified by a monthly check of storage 3 Access log reviewed monthly no ИИН in application logs 4 Kazakh and degraded pages goes to human review 5 Quarterly accuracy check on a 30 page sample per language
+Choice L costs 18000 dollars a year against 21418 dollars for H keeps all personal data pages in the country and its accuracy gap is not statistically proven Residual risk roughly a quarter of Kazakh invoices are extracted wrong so review is needed and a breach or weak retention on our own server is our responsibility
 ## Part 3: Explain your own numbers
 
 ### Q1
