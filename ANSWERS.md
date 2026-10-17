@@ -9,6 +9,12 @@ Fingerprint:
 
 ## AI-use declaration
 
+Tools used: Claude (Claude.ai) as a chat assistant; Google Colab to run python codes 
+What I used them for:
+1. Understanding the task: step-by-step plan
+2. Code and calculation: Claude wrote Python for the variables
+3. Wording: Claude drafted the decision
+
 
 
 ## Part 1: Retrieval and cost decision
