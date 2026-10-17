@@ -79,9 +79,8 @@ Why (at most 40 words): Щutput tokens cost 5x input tokens, and the mix differs
 
 ### Q2
 
-Number:
-Why (at most 40 words):
-
+Number 533
+Why (at most 40 words): ноу the sentences tarts at about e5 token 533, beyond the 512 limit, so it is truncated and never embedded. The chunk cannot match it, and no error is raised: the failure is silent.
 ### Q3
 
 Number:
