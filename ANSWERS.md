@@ -48,7 +48,7 @@ What I used them for:
 
 Chosen candidate:B, k=5
 
-(Decision, using your intervals and the budget. Give the recall of your choice for EN, RU and KK separately.)
+Annual cost is $16,710, within the $25,100 budget; (A,5) costs $28,338 and is excluded. Recall@5 is 0.833 (95 % CI 0.720-0.907). That interval does not overlap with (A,3) 0.533 (0.409-0.654) or (B,3) 0.500 (0.377-0.623), so it is better than both. It overlaps with (A,5) 0.617 (0.490-0.729), so I claim no difference there, but (A,5) is over budget anyway. Recall by language: EN 0.950 (0.764-0.991), RU 0.800 (0.584-0.919), KK 0.750 (0.531-0.888). Kazakh users are served worst; with n=20 per language these intervals overlap, so the language gap is not proven.
 
 ### 1e. Next measurement (at most 60 words)
 
