@@ -46,7 +46,7 @@ What I used them for:
 
 ### 1d. Decision (at most 150 words)
 
-Chosen candidate:
+Chosen candidate:B, k=5
 
 (Decision, using your intervals and the budget. Give the recall of your choice for EN, RU and KK separately.)
 
